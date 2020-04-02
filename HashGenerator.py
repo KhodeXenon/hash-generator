@@ -1,3 +1,5 @@
+__coder__ = "KhodeXenon[Amin]"
+__email_ = "Khodexenon@gmail.com"
 import hashlib
 
 class HashTool():
